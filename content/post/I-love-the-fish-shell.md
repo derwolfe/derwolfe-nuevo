@@ -30,7 +30,7 @@ completions are actively filtered as you type. If the command has a
 description, then fish displays this as well. For example, typing
 `brew c<TAB>` produces the following
 
-![image](/static/img/completion.png)
+![image](/img/completion.png)
 
 fish also uses a sane and simple configuration language in which paths
 can be set easily. For example, here is my fish.config file in which
@@ -69,14 +69,14 @@ function inside of \~/.config/fish/functions
 
 Here is a picture of `funced` in action.
 
-![image](/static/img/funced.png)
+![image](/img/funced.png)
 
 In addition to the wonderful handling of user defined functions, the
 prompts included with fish are excellent. By default, fish displays only
 the first letter of each parent directory's name in relation to the
 present working directory, e.g.:
 
-![image](/static/img/prompt.png)
+![image](/img/prompt.png)
 
 The prompt can be edited several ways. The easiest way to edit the
 prompt is to open up the web-based configuration utility. I'm normally
