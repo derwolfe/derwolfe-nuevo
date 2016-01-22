@@ -17,12 +17,15 @@ googleAnalytics = "UA-41763159-1"
     description = "I'm Chris Wolfe"
     github = "https://github.com/derwolfe"
     twitter = "https://twitter.com/chriswwolfe"
+    title = "Chris Wolfe"
+    
+    #footer = "Copyright Chris Wolfe; All rights reserved"
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
 
 [[menu.main]]
-    name = "Blog"
+    name = "The Posts"
     url = "/"
     weight = 1
 
