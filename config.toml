@@ -2,8 +2,9 @@ baseurl = "https://derwolfe.net"
 title = "Chris Wolfe"
 theme = "ghostwriter"
 languageCode = "en-us"
-copyright = "Chris Wolfe"
+copyright = "All rights resevered - 2016 - Chris Wolfe"
 googleAnalytics = "UA-41763159-1"
+paginate = 10
 
 [Author]
     name = "Chris Wolfe"
@@ -14,32 +15,15 @@ googleAnalytics = "UA-41763159-1"
 [Params]
     intro = true
     headline = "Helllooo."
-    description = "I'm Chris Wolfe"
+    description = "I'm Chris Wolfe, I have a poodle, and write programs."
     github = "https://github.com/derwolfe"
     twitter = "https://twitter.com/chriswwolfe"
     title = "Chris Wolfe"
-    
-    #footer = "Copyright Chris Wolfe; All rights reserved"
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
 
 [[menu.main]]
-    name = "The Posts"
+    name = "Posts"
     url = "/"
     weight = 1
-
-# [[menu.main]]
-#     name = "Projects"
-#     url = "/project/"
-#     weight = 2
-
-# [[menu.main]]
-#     name = "Contact"
-#     url = "/page/contact/"
-#     weight = 3
-
-# [[menu.main]]
-#     name = "About"
-#     url = "/page/about/"
-#     weight = 4

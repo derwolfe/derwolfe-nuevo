@@ -1,5 +1,5 @@
 +++
-title = "My git workflow - updated March 6, 2015"
+title = "My git workflow"
 date = "2014-02-28"
 +++
 
