@@ -1,5 +1,5 @@
-baseurl = "https://derwolfe.net"
-title = "Chris Wolfe"
+baseurl = "https://derwolfe.net/"
+title = "chris wolfe"
 theme = "ghostwriter"
 languageCode = "en-us"
 copyright = "All rights resevered - 2016 - Chris Wolfe"
@@ -15,10 +15,10 @@ paginate = 10
 [Params]
     intro = true
     headline = "Helllooo."
-    description = "I'm Chris Wolfe, I have a poodle, and write programs."
+    description = "I'm Chris Wolfe. I write computer programs and have a poodle."
     github = "https://github.com/derwolfe"
     twitter = "https://twitter.com/chriswwolfe"
-    title = "Chris Wolfe"
+    title = "Chris Wolfe / derwolfe.net"
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
