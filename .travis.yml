@@ -13,7 +13,7 @@ deploy:
   access_key_id: AKIAIYTZB7RH4XQQJGMA
   secret_access_key:
     secure: YGNm1F7g9i5IdbxVskQoDvdwYpDN32oB6Na4+Z8cVJJzhX8J542teBq+a+7Y7hmkk4kwuYne3ytZLUcxs8y/eFBwlDg590xazjVwnEMgMDDN6gvaNZF/Cd0AaK47Pm0J5P1Jl4/uuplpDZWN5KViIED8WKQpvipiGyqK/KAeqCoiqjYw14LvpET4wCqP0W6TXvpYSOO46AKrRqoTu6u2lD4F3bZAP+HnFpipqr0CI3jPIz1omUAu0hQPPO9znYV2Bey9/Olp6+LhuztnZeiktmLIrF5UpdZghrebbajRgB2hE7ROjEjhAryPJnpPzSCcJGg5EX2wbLToz7FJtZf8LSJRTj72770+IKI5HoNE2vydxuHBp6HyR0GoZOVEWazyl1zPOXCrkxsoDOA4RUAyohzrdclU0N2IDhHlKqFZv/IzEVxTGl6eZJhNlf/Bd95bLa4oVnKVxWAfhSOL0iMuAzvHFa/RwetiagBPFA2lZ0FQiTTKO9fCIVuPtT+2pTEn/eL7l8TaRDlufr9msWqfy16LLyzG3aYahfHSIiBdboPnUjlnJQzVjOG08zV9beb1fTVy64Qu+PL4xcxuy5fRYUUSeWn/vne+kLaMyGyU1lz93eOaAr51G8/dLqHKeZr7iF9LbV5b6SbltkXC+D/hGgk3cPEgyq7wbeNTj7PbUAQ=
-  bucket: derwolfe.net
+  bucket: www.derwolfe.net
   local-dir: ./public
   acl: public_read
   on:
