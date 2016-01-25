@@ -4,8 +4,8 @@ go:
 install:
   - go get -v github.com/spf13/hugo
 script:
-  - go build github.com/spf13/hugo
-  - hugo
+  - go build GOPATH/src/github.com/spf13/hugo
+  - GOPATH/bin/github.com/spf13/hugo 
 deploy:
   provider: s3
   access_key_id: AKIAIYTZB7RH4XQQJGMA
