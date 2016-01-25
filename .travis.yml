@@ -1,9 +1,9 @@
-language: go
-install:
-  - go get -v github.com/spf13/hugo
+language: bash
+before_script:
+  - wget https://github.com/spf13/hugo/releases/download/v0.15/hugo_0.15_linux_amd64.tar.gz
+  - tar -zxvf hugo_0.15_linux_amd64.tar.gz
 script:
-  - go build GOPATH/src/github.com/spf13/hugo
-  - GOPATH/bin/github.com/spf13/hugo 
+  - ./hugo_0.15_linux_amd64/hugo_0.15_linux_amd64
 deploy:
   provider: s3
   access_key_id: AKIAIYTZB7RH4XQQJGMA
