@@ -8,6 +8,7 @@ script:
   - rm hugo_0.15_linux_amd64.tar.gz
   - ls -l
 deploy:
+  skip_cleanup: true
   provider: s3
   access_key_id: AKIAIYTZB7RH4XQQJGMA
   secret_access_key:
