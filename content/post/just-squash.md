@@ -3,7 +3,7 @@ author = "Chris Wolfe"
 date = "2016-04-01T17:08:39-05:00"
 description = "For pull requests, use squash merges"
 tags = ["git", "collaboration"]
-title = "just squash"
+title = "Just Squash"
 
 +++
 
