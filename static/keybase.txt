@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/derwolfe
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://derwolfe.net
+  * I am derwolfe (https://keybase.io/derwolfe) on keybase.
+  * I have a public key with fingerprint A274 2664 0C95 BAF9 A452  E51C BC97 2703 EE6A 93EC
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101fc74e1d6beb5c957d2f6dc19b27e86df77fa4af164afadbe3cba50bee157b02a0a",
+            "fingerprint": "a27426640c95baf9a452e51cbc972703ee6a93ec",
+            "host": "keybase.io",
+            "key_id": "bc972703ee6a93ec",
+            "kid": "0101fc74e1d6beb5c957d2f6dc19b27e86df77fa4af164afadbe3cba50bee157b02a0a",
+            "uid": "be2af6e45541ea618f10982de5cae919",
+            "username": "derwolfe"
+        },
+        "service": {
+            "hostname": "derwolfe.net",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1470713134,
+    "expire_in": 157680000,
+    "prev": "7ed98508e2e5314ffe59097a54768e6576dccc087f6e1cfd007ff4552713cf1b",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGtUntQVFUcXl47QogyECJu2F5ThFbm3rv3sXcHlUFoBgYmBykEcdZz7z0XL6y7
+2z6A5dFjsMWShZQgBTcEejEIBjOlTJIYESo0UD5QSwdLSCglJ2pqmqBzrf5p+rPz
+xzlzfuf7vt/3/ea8tjxAFeJ35o24gPtFDT/4jc7yqtzOLLoC462iGzNWYMXw4QHN
+InQ4TcWyiBkxnMAJSWApSIgMD3la4GhWJCVGFAiOJ1loYESJZSVAAYlg0AZEHuoF
+HtA4DyFBszxOAhxgOkySLYXQbrPLFieSBSRLkQxD4UiPBxIHKJqENCHwAseSLK6H
+kAGcHgqIuNfqUBjIHA8cMFG2ohq6mB7a+w/8/+zb9VcfSAKJgRRNUwQEDGGQCJwz
+kCKkBQA5glOADmi3gH0QoUVoL7WaJYhV6TBULZEFqAxWSfIvRKIFOhHXZrc6rYLV
+jF72Op02h1FhOt02BVoKedPfIiZetohojohRAu0O2WrBjARCCk5ZUSUoFmcJPaGn
+dBgss8l2aJIVBM0yBhwtpQ8sQZIsFDkDjecZIBq6nqAkCdIczrGAphAUMoggCoKA
+G1iUmRAkEcdZSULhSSQvSASPKbmes1iRuB4ZBYVI1CEXWoDTZUepQ17x1wSq/EJU
+6iB/5YupQoJX/vPvbhSu+CO2OK5gxPdt8sbb7sErB248uqOk58ytYvyDmYlL3yxb
+XPZCaQG9UBQjLC70Nm3L2Hh6nBye7fgcDt/6vbwWThw/f7CyvzKx9Y7x6Z0vzZyy
+S+szMuvi31RXH/YE//j6mvjnv56GVZ/+cnepOm7YW98Ey3zX8z3V2isfqjal5q+0
+1q/SrB3fdSoz+6j0bFfk0LX9AT3hcoO32n9he0Xz6pjlVFFejks42Ujpnhml1W1x
+Dc2bNWOpo26i89i8b3Akv6dv0f+RDs2T2wZ2J1FrdDuP2V5cvydcPBAYegGU1fq9
+vK53tPlw7JbAGt8D9ZZdV8ujsYRPJg/u5pJ4PfDMjrQOn4sccrFz6rqIn0KXfq4L
+aJk6q1sBg8I+i9ekTw61HdfWeOJ23H33XlTOvQ1jm9ZarhZkDphb2/ekNHUcemJm
+e/+R5JSPtRnnuvsbW1bdNxrfWrwekftY1OR7wdkLyXPlH90xd7/vOBIaenlUMxdt
+9mYvmc7HdJq7Lhwdn0poC46KfSotPCvrcndSfG/EWKoqxOi0LdrmN6S4a/paom+T
+nryvcgbPbtZ+H3Fo8vTbrvRLjPu3fYNBI++EJXyXO2Vpqqn/sqursy7iZPfE9M10
+kHZzXWqM74GnX5z2TtannWicf9zY4tXuV/e9ulVV2Z4VWN7+Re1We0XYxZ7QyOCL
+QuJA3+prJ36t+hM=
+=yzTP
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/derwolfe
+
+==================================================================
