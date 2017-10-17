@@ -1,9 +1,9 @@
 language: bash
 before_script:
-- wget https://github.com/spf13/hugo/releases/download/v0.26/hugo_0.26_linux_amd64.tar.gz
-- tar -zxvf hugo_0.26_linux_amd64.tar.gz
+- wget https://github.com/gohugoio/hugo/releases/download/v0.29/hugo_0.29_Linux-64bit.tar.gz
+- tar -zxvf hugo_0.29_linux_amd64.tar.gz
 script:
-- "./hugo_0.26_linux_amd64/hugo_0.26_linux_amd64"
+- "./hugo_0.29_Linux-64bit/hugo_0.29_Linux-64bit"
 deploy:
   skip_cleanup: true
   provider: s3
