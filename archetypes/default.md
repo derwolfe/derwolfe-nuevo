@@ -1,6 +1,7 @@
 +++
-title = ""
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
 description = ""
 author = ""
-tags = []
+date: {{ .Date }}
+draft: true
 +++
