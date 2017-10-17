@@ -2,7 +2,7 @@
 title = "Manifold streams, testing, no restarts"
 description = "Using lein auto test and try-take to stop wasting time"
 author = "Chris Wolfe"
-date = 2017-10-16T20:57:06-05:00
+date = "2017-10-16"
 draft = false
 tags = ["clojure", "manifold", "streams", "testing"]
 +++
