@@ -14,7 +14,6 @@
         <link rel="icon" href="data:;base64,iVBORw0KGgo=">
         <link rel="stylesheet" href="{{ .Site.BaseURL }}css/all.css">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,600,700,300&subset=latin,cyrillic-ext,latin-ext,cyrillic">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     </head>
     <body>
         {{ template "_internal/google_analytics.html" . }}
@@ -31,17 +30,6 @@
                             <h1 class="site-title">
                                 <a title="{{ .Title }}" href="{{ .Site.BaseURL }}">{{ .Site.Params.title}}</a>
                             </h1>
-                        {{ end }}
-                        <a class="button-square" href="{{ .Site.BaseURL }}index.xml"><i class="fa fa-rss"></i></a>
-                        {{ with .Site.Params.twitter }}
-                            <a class="button-square button-social hint--top" data-hint="Twitter" title="Twitter" href="{{ . }}">
-                                <i class="fa fa-twitter"></i>
-                            </a>
-                        {{ end }}
-                        {{ with .Site.Params.github }}
-                            <a class="button-square button-social hint--top" data-hint="Github" title="Github" href="{{ . }}">
-                                <i class="fa fa-github-alt"></i>
-                            </a>
                         {{ end }}
                     </div>
 
