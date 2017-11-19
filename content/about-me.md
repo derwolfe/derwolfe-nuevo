@@ -3,7 +3,7 @@ title = "About Me"
 description = ""
 author = ""
 date = 2017-11-19T14:41:53-06:00
-layout = "about"
+type = "about"
 +++
 
 This is a work in progress.
