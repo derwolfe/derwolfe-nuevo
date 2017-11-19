@@ -1,13 +1,13 @@
 +++
-title = "About Me"
+title = "About me"
 description = ""
-author = ""
+author = "Chris Wolfe"
 date = 2017-11-19T14:41:53-06:00
 type = "about"
 +++
 
-This is a work in progress.
-
-If you'd like a copy of my resume, please feel free to email me.
+This is a work in progress. If you'd like a copy of my resume, please feel free to email me.
 
 [My Github](https://github.com/derwolfe)
+
+Have an adorable poodle: ![image](/img/poodle.jpg)
