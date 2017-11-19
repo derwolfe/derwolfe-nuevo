@@ -6,8 +6,6 @@ date = 2017-11-19T14:41:53-06:00
 type = "about"
 +++
 
-This is a work in progress. If you'd like a copy of my resume, please feel free to email me.
+This is a work in progress. If you'd like a copy of my resume, please feel free to email me using the address on [my Github](https://github.com/derwolfe).
 
-[My Github](https://github.com/derwolfe)
-
-Have an adorable poodle: ![image](/img/poodle.jpg)
+As a bonus for visiting, here is a picture of my adorable poodle: ![image](/img/poodle.jpg)
