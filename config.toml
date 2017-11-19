@@ -15,8 +15,6 @@ paginate = 10
     intro = true
     headline = "Helllooo."
     description = "I'm Chris Wolfe. I write computer programs and have a poodle."
-    github = "https://github.com/derwolfe"
-    twitter = "https://twitter.com/chriswwolfe"
     title = "Chris Wolfe"
 
 [Permalinks]
@@ -26,3 +24,8 @@ paginate = 10
     name = "Posts"
     url = "/"
     weight = 1
+
+[[menu.main]]
+    name = "About Me"
+    url = "/about-me"
+    weight = 2
