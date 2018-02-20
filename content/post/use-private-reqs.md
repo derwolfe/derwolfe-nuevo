@@ -1,6 +1,6 @@
 +++
 title = "Using private repos with requirements.txt"
-description = "Installing Python requirements from private repositories"
+description = "Ever wanted to test a github PR as a part of an integration test?"
 author = ""
 date = 2018-02-20T09:44:44-06:00
 draft = false
