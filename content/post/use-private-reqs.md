@@ -7,7 +7,7 @@ draft = false
 tags = ["python", "packaging", "private repositories", "pip", "requirements.txt"]
 +++
 
-I regularly work with private Github repositories and from time to time want to pull down PRs and test them out as part of an integration test. I've had to Google the right syntax for this many times. To stop needing to do this I thought writing a short blog about it to help me to remember.
+I regularly work with private Github repositories and from time to time want to pull down PRs and test them out as part of an integration test. I've had to Google the right syntax for this many times. No more.
 
 To install a branch from a private repository in a project using `requirements.txt` files, replace the line containing the actual requirement with the following:
 
