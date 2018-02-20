@@ -15,6 +15,6 @@ To install a branch from a private repository in a project using `requirements.t
 git+ssh://git@github.com/<fork>/<project>@<branch>#egg=<project>
 ```
 
-- `fork` is the account holder of the fork, normally a github username, e.g. `derwolfe`
-- `project` is the actual name of the project, e.g. `twisted`
-- `branch` is the branch used for the PR
+- `fork` is the account holder of the fork, normally a github username, e.g., `derwolfe`
+- `project` is the actual name of the project, e.g., `twisted`
+- `branch` is the branch used for the PR, e.g., `rewire-reactor-1231`
